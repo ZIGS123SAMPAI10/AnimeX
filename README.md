@@ -64,7 +64,7 @@ If you are viewing this page on an Android device with CloudStream installed, si
 2. **Open Settings** Navigate to `Settings` > `Extensions` within the app.
 3. **Add Repository** Tap on **Add Repository** and paste the following URL:
 ```text
-https://raw.githubusercontent.com/HatsuneMikuUwU/AnimeX/refs/heads/master/repo.json
+https://raw.githubusercontent.com/ZIGS123SAMPAI10/AnimeX/refs/heads/master/repo.json
 ```
 4. ​**Install Extensions** Tap **Add**. The available extensions will now appear in your list. Select the ones you want and tap **Install** ✅.
 
