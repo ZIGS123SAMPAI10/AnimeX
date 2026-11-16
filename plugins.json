@@ -338,7 +338,7 @@
             "Miku"
         ],
         "description": "Samehadaku \u2014 Streaming Anime Subtitle Indonesia",
-        "fileSize": 41160,
+        "fileSize": 41162,
         "repositoryUrl": "https://github.com/ZIGS123SAMPAI10/AnimeX",
         "language": "id",
         "tvTypes": [
@@ -348,7 +348,7 @@
         ],
         "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
         "apiVersion": 1,
-        "fileHash": "sha256-cadb6c0c438eccd995ec8b1e88cb0a8774777a13594b7e5ef104684dc1986374"
+        "fileHash": "sha256-5859b346e9d71c78aaa437284e0e146fdcb0e724512d45cd3228ef0025fd6be9"
     },
     {
         "url": "https://raw.githubusercontent.com/ZIGS123SAMPAI10/AnimeX/builds/WinbuProvider.cs3",
